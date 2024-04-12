@@ -8,8 +8,8 @@ THIS IS NOT ROBUST OR PRODUCTION-READY! FOR DEMONSTRATION PURPOSES ONLY!
 
 This is the sample code for the following video and blog post:
 
-- [Summarize and Query PDFs with a Private Local GPT for Free using Ollama and Langchain (YouTube)](https://youtu.be/FRDKeNEeNAQ)
-- [Summarize and Query PDFs with AI using Ollama](https://vincent.codes.finance/posts/sentiment/)
+- [3 Methods for Financial News Sentiment Analysis in Python (YouTube)](https://youtu.be/FRDKeNEeNAQ)
+- [3 Methods for Financial News Sentiment Analysis in Python](https://vincent.codes.finance/posts/sentiment/)
 
 ## Setup
 
