@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "sentiment"
+version = "0.1.0"
+description = "Various methods for measuring sentiment of financial documents"
+authors = ["Vincent Grégoire <vincent@codes.finance>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.1"
+transformers = "^4.39.3"
+sentence-transformers = "^2.6.1"
+torch = "^2.2.2"
+scipy = "^1.13.0"
+jupyter = "^1.0.0"
+langchain = "^0.1.14"
+newspaper3k = "^0.2.8"
+lxml-html-clean = "^0.1.1"
+langchain-experimental = "^0.0.56"
+openai = "^1.16.2"
+langchain-openai = "^0.1.1"
+tenacity = "^8.2.3"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.1.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
